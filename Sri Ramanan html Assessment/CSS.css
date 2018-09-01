@@ -1,0 +1,219 @@
+*
+{
+font-family: Constantia;
+}
+
+#headerid
+{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 60px;
+width: 100%;
+background-image: linear-gradient(90deg,blue,lightblue);
+}
+#titleid
+{
+color: white;
+position: absolute;
+top: 13px;
+left: 20px;
+font-size: 25px;
+}
+#hdivid
+{
+text-align: right;
+position: relative;
+top: 20px;
+right: 30px;
+}
+a
+{
+text-decoration: none;
+color: white;
+}
+#hspanid
+{
+padding: 10px;
+color: white;
+font-weight: bolder;
+}
+#hspanid:hover
+{
+border: 3px solid white;
+font-size: 17px;
+transition:0.5s;
+background-color: grey;
+font-weight: bolder;
+}
+body
+{
+background-image: linear-gradient(270deg,lightgreen,green);
+}
+#homeheading
+{
+position: relative;
+top: 450px;
+left:20px;
+font-size: 25px;
+color: blue;
+z-index:1;
+opacity: 0.9;
+}
+#mainimg
+{
+position: absolute;
+top: 56px;
+left:0px;
+width:100%;
+height:45%;
+}
+#para
+{
+color: white;
+font-weight: bolder;
+z-index: 1;
+position: absolute;
+top: 550px;
+left: 40px;
+}
+#img1
+{
+position: absolute;
+top: 60px;
+left:0px;
+width:45%;
+height:30%;
+}
+#img2
+{
+position: absolute;
+top: 340px;
+right:0px;
+wight:45%;
+height:30%;
+}
+#2para
+{
+position: relative;
+top: 500px;
+left: 0px;
+font-size: 15px;
+color: white;
+Z-index: 1;
+}
+#img3
+{
+position: absolute;
+top: 594px;
+left:0px;
+width: 50%;
+height: 280px;
+
+}
+#img4
+{
+position: absolute;
+top: 60px;
+left: 0px;
+width:100%;
+height:40%;
+}
+#chead
+{
+position: absolute;
+top: 47%;
+left: 15px;
+text-align: center;
+z-index: 1;
+color: white;
+}
+#cul1
+{
+position: absolute;
+top: 55%;
+left: 15px;
+font-size: 25px;
+color: white;
+z-index: 1;
+}
+#footerid
+{
+position: absolute;
+bottom: 0px;
+right: 0px;
+height: 60px;
+width:100%;
+background-image: linear-gradient(270deg,blue,lightblue);
+}
+#fdivid
+{
+text-align: left;
+position: absolute;
+bottom: 20px;
+left: 30px;
+}
+#fspanid
+{
+padding: 10px;
+}
+#logfield
+{
+position: absolute;
+top:30%;
+left:35%;
+}
+#ltrowid
+{
+padding :10px;
+}
+#regfield
+{
+position: absolute;
+top: 30%;
+left: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
